@@ -1,0 +1,14 @@
+[
+    {
+        "query": "What is AWS Bedrock?",
+        "expected_answer_contains": ["foundation model", "AWS"]
+    },
+    {
+        "query": "What is FAISS?",
+        "expected_answer_contains": ["vector", "similarity"]
+    },
+    {
+        "query": "What is Cloud Computing?",
+        "expected_answer_contains":["vector","similarity"]
+    }
+]
