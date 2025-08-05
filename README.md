@@ -15,7 +15,10 @@ Frontend/UI: Streamlit
 
 Orchestration: AWS Bedrock
 
+
 🚀 Features
+
+
 ✅ Accepts user queries and retrieves relevant document chunks using semantic search
 
 ✅ Uses Titan Embeddings to vectorize documents and store them in FAISS
@@ -29,9 +32,7 @@ Orchestration: AWS Bedrock
 ✅ Hosted and orchestrated using AWS Bedrock for enterprise scalability
 
 📂 Project Structure
-graphql
-Copy
-Edit
+
 ├── data                 # Dataset is uploaded here
 ├── faiss_index          # Indexes are created and stored in vector store
 ├── venv                 # Virtual Enviorment is created using this
